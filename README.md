@@ -1,23 +1,23 @@
-*AgendaContatoSimples - SimpleContactAgenda
+*AgendaContatoSimples - SimpleContactAgenda*
 
 
-**Description
+**Description**
 
 This project is designed to help beginners learn Java from scratch. It covers the fundamental concepts of Java programming, including:
 
-**Variables and Data Types
+**Variables and Data Types**
 
 Operators and Control Structures (if, switch, for, while)
 
-**Methods and Functions
+**Methods and Functions**
 
 Arrays and Basic Collections
 
-**Input and Output
+**Input and Output**
 
 The project includes practical examples and exercises to reinforce learning and build confidence in Java programming.
 
-**Features
+**Features**
 
 Simple console-based application to practice Java fundamentals.
 

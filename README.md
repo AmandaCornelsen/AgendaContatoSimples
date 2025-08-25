@@ -1,4 +1,4 @@
-*AgendaContatoSimples - SimpleContactAgenda*
+***AgendaContatoSimples - SimpleContactAgenda***
 
 
 **Description**
@@ -21,7 +21,7 @@ The project includes practical examples and exercises to reinforce learning and 
 
 Simple console-based application to practice Java fundamentals.
 
-**Demonstrates core Java concepts clearly.
+**Demonstrates core Java concepts clearly.**
 
 Ready-to-use examples that can be extended by beginners.
 
